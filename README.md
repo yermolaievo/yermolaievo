@@ -48,10 +48,10 @@
 - 📘 Always **learning new things** and exploring **new technologies**.
 
 <h2 align="center">📊 My Contribution Stats 📊</h2>
- 
-<p align="center">
+ ![Snake animation](https://github.com/yermolaievo/yermolaievo/blob/output/github-contribution-grid-snake.svg)
+<!-- <p align="center">
   <img src="https://github.com/yermolaievo/yermolaievo/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
+</p> -->
 
 <h2 align="center">📈 My GitHub Stats 📈</h2>
 
