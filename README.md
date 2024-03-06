@@ -47,8 +47,8 @@
 - 🚀 Currently working as a **Senior Software Engineer** at MOBXINT.
 - 📘 Always **learning new things** and exploring **new technologies**.
 
-<h2 align="center">📊 My Contribution Stats 📊</h2>
- ![Snake animation](https://github.com/yermolaievo/yermolaievo/blob/output/github-contribution-grid-snake.svg)
+<!--<h2 align="center">📊 My Contribution Stats 📊</h2>-->
+<!--  ![Snake animation](https://github.com/yermolaievo/yermolaievo/blob/output/github-contribution-grid-snake.svg) -->
 <!-- <p align="center">
   <img src="https://github.com/yermolaievo/yermolaievo/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p> -->
