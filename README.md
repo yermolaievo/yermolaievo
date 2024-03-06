@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/yermolaievo/README/blob/main/github-header-image.png" alt="Oleksandr Yermolaiev Header Image"/>
+  <img src="https://github.com/yermolaievo/yermolaievo/blob/main/github-header.png" alt="Oleksandr Yermolaiev Header Image"/>
+   
 </p>
 
 <h2 align="center">🛠 Technology Stack 🛠</h2>
